@@ -1,4 +1,4 @@
-personal fork of Alacritty, mainly for the font size changes written by [da-x/alacritty](https://github.com/da-x/alacritty)
+personal fork (sept 2017) of Alacritty, mainly for the font size changes written by [da-x/alacritty](https://github.com/da-x/alacritty)
 
 ```
        ,/|         _.--''^``-...___.._.,;
