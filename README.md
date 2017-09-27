@@ -1,3 +1,15 @@
+personal fork of Alacritty, mainly for the font size changes written by [da-x/alacritty](https://github.com/da-x/alacritty)
+
+```
+       ,/|         _.--''^``-...___.._.,;
+     /, \'.     _-'          ,--,,,--'''
+    { \    `_-''       '    /}
+     ​ ​`;;'             ;   ; ;
+ ._.--''     ._,,, _..'  .;.'​   [spg]
+ (,_....----'''     (,..--''  
+
+```
+
 Alacritty
 =========
 
